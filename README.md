@@ -30,7 +30,8 @@ git clone <repository_url>
 ```bash
 cd <project_directory>
 ```
-
+4. Download dataset keeping Data in working directory
+5. 
 3. Run the provided Python script.
 
 ## Dataset
