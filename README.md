@@ -47,7 +47,7 @@ The CNN model architecture consists of multiple convolutional layers followed by
 
 The ResNet50 model architecture is a pre-trained convolutional neural network that has been trained on the ImageNet dataset. The final layers of ResNet50 are removed and replaced with a custom dense layer followed by a sigmoid activation layer. The model is compiled using Stochastic Gradient Descent (SGD) optimizer with a learning rate of 0.0001 and categorical cross-entropy loss function.
 
-### Previously Used Models
+### Other Used Models
 
 1. **Principal Component Analysis (PCA)**: A dimensionality reduction technique used to reduce the number of features in the dataset while preserving most of the information. PCA is commonly used for preprocessing before applying other machine learning algorithms.
 
